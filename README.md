@@ -1,2 +1,2 @@
-www.imprest.github.io
+imprest.github.io
 
