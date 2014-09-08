@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Cowboy hook to support angularjs html5Mode"
-date:   2014-09-05 22:32:33
+date:   2014-09-05 22:33:33
 comments: true
-categories: erlang cowboy angularjs
+tags: erlang cowboy angularjs
 ---
 
 While using the [$location][$location] service with html5Mode set to true,
